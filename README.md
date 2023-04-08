@@ -6,7 +6,7 @@
 - I'm open to collaborating on interesting projects as a developer
 
 Skills
-HTML5   CSS3   JavaScript  Git   
+HTML5   CSS3   JavaScript  Git  jQuery BootStrap 
 
 Socials
-
+Twitter 
