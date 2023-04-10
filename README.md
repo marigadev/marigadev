@@ -6,7 +6,4 @@ Currently learning ReactJS, NodeJS and SQL.
 
 HTML5, CSS3, JavaScript, jQuery, GIT
 
-🚀 You can connect with me on:
 
-Twitter: @_MarigaBruce
-LinkedIn: @Mariga Bruce
