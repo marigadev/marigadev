@@ -1,12 +1,12 @@
-- My name is Bruce Mariga.
-- I am Front End developer.
-- I'm based in Nairobi, Kenya.
-- See my portfolio at Portfolio
-- Currently learning React JS
-- I'm open to collaborating on interesting projects as a developer
+A Front-End Software Developer, who is Passionate about learning, building and solving problems.
 
-Skills
-HTML5   CSS3   JavaScript  Git  jQuery BootStrap 
+Currently learning ReactJS, NodeJS and SQL.
 
-Socials
-Twitter 
+**Languages and Tools**
+
+HTML5, CSS3, JavaScript, jQuery, GIT
+
+🚀 You can connect with me on:
+
+Twitter: @_MarigaBruce
+LinkedIn: @Mariga Bruce
